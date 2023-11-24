@@ -72,7 +72,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: duyichao # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: gitlab_username # your X handle
+x_username: Great6yd # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: ycdu666 # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -153,12 +153,12 @@ giscus:
 disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
-# External sources.
-# If you have blog posts published on medium.com or other external sources,
-# you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: 
-    rss_url: 
+# # External sources.
+# # If you have blog posts published on medium.com or other external sources,
+# # you can display them in your blog by adding a link to the RSS feed.
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
