@@ -25,7 +25,7 @@
           {%- else -%}
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
-        <!-- {%- elsif entry.abbr2 -%}
+        {%- elsif entry.abbr2 -%}
           <!-- <span class="abbr2 badge">{{entry.abbr2}}</span> -->
           {%- if site.data.venues[entry.abbr2] -%}
             {%- assign venue_style = nil -%}
@@ -35,7 +35,7 @@
             <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr2].url}}">{{entry.abbr2}}</a></abbr>
           {%- else -%}
             <abbr class="badge">{{entry.abbr2}}</abbr>
-          {%- endif -%} -->
+          {%- endif -%}
         {%- endif -%}
 
         </div>
