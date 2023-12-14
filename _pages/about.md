@@ -27,4 +27,4 @@ Currently, I am working as a research intern at Tencent AI Lab, mentored by [Zhi
   - Data mining in healthcare: ICD coding; Extreme Multi-Label Classification
   - Knowledge Graph: Entity Linking
 
-You can contact me through a@b, where a=duyichao and b=mail.ustc.edu.cn
+You can contact me through **X**@mail.ustc.edu.cn, where **X**=duyichao
