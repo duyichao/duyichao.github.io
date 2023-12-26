@@ -7,9 +7,9 @@ nav_order: 1
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: 
+  image: prof_pic_2.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: "Email: X@mail.ustc.edu.cn, where X=duyichao"
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -27,4 +27,4 @@ Currently, I am working as a research intern at Tencent AI Lab, mentored by [Zhi
   - Data mining in healthcare: ICD coding; Extreme Multi-Label Classification
   - Knowledge Graph: Entity Linking
 
-You can contact me through **X**@mail.ustc.edu.cn, where **X**=duyichao
+<!-- You can contact me through **X**@mail.ustc.edu.cn, where **X**=duyichao -->
