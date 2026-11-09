@@ -27,6 +27,6 @@ For a user site, name the repository `duyichao.github.io`. For a project site, t
 - Edit `index.html` for biography, experience, publications, links, and contact details.
 - Edit `styles.css` for colors, typography, and layout.
 - Replace `profile.jpg` with a new portrait using the same filename.
-- Replace `og-v2.png` to update the social sharing card.
+- The social sharing card uses `profile.jpg` via the `og:image` tag in `index.html`.
 
 If the deployed domain is not `https://duyichao.github.io/`, update the `og:image` URL in `index.html`.
